@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "My first project using Node JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ken Okpara",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
